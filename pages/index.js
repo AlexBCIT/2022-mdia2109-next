@@ -9,7 +9,7 @@ export default function Home() {
     <div className={styles.container}>
       <Link href ="/boiler">go to boiler</Link>
       <ImgCard bg="#000000">
-        <h3>This is Children in Tag</h3>
+        <h3>YOLO you only live once</h3>
       </ImgCard>
       <ImgCard img="http://placekitten.com/300/300" name="this is a cat meow" tcl="#ABC980"/>
       <NavBar />
